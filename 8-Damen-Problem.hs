@@ -43,3 +43,4 @@ vector :: (Int, Int) -> (Int, Int) -> (Int, Int)
 vector (x1, y1) (x2, y2) = (x2 - x1, y2 - y1)
 
 --In der console "updateGrid (generate 8 8)" eingeben um zu testen
+--Eine 1 in der matrix representiert eine dame und die nullen representieren leere felder
